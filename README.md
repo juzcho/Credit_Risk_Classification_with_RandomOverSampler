@@ -1,6 +1,6 @@
-# **Module 12 Challenge: Credit Risk Classification**
+# **Credit Risk Classification**
 
-## Credit Risk Classification 
+## Overview
 
 This classification model analysis creates a tool that can predict which loan status is healthy or high risk, to be able to help the lending company. We use Logistics Regression model and Random Oversampler to help create a machine learning classification model that can help with the purpose of identifying loans correctly.
 
