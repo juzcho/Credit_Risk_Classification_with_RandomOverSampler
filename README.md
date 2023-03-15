@@ -84,7 +84,8 @@ To be able to get a good analysis on the credit risk classification, we need to 
 
 Contributed by: Justine Cho
 
-Email: juz317_cho@yahoo.com
+Email: chojustine0@gmail.com
+
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/justinecho)
 
